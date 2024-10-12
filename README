@@ -1,0 +1,1 @@
+This repository contains (I hope) all programs written by me for my Bachelor Thesis. I used Python to preprocess earnings call transcripts, assign complexity scores to singular transcripts and to create similarity scores between transcripts. As I have had little coding experience prior, the code is likely very messy.
